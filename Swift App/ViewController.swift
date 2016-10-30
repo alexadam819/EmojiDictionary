@@ -3,7 +3,7 @@
 //  Swift App
 //
 //  Created by Alex Adam on 10/30/16.
-//  Copyright © 2016 Alex Adam. All rights reserved.
+//  Copyright © 2016 Alex Adam. All rights reserved...
 //
 
 import UIKit
